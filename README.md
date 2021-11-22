@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Angry-Pomeranian
-- 👀 I’m interested in ...
+- 👀 I’m interested in CyberSecurity and coding
 - 🌱 I’m currently learning  CyberSecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email: Nicole.taylor.kemp@outlook.com
