@@ -14,9 +14,10 @@ Hw wk18
 Note that My host and sourcetype name will be diffrent compared to your machine.  
 
 
-## Task 1 Upload:
 
-Insert screenshot:
+
+## Task 1 Upload:
+![image](https://user-images.githubusercontent.com/91113466/164487623-aac071df-4d71-4ccf-8856-bd548352b32a.png)
 
 ## Task 2 EVAL Command: 
 
