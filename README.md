@@ -74,7 +74,8 @@ Focus areas:
 
 <div align="center">
 
-[![Security Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Angry-Pomeranian&repo=Security-Governance-Operations-Documentation-Portfolio&theme=github_dark&title_color=D4AF37&icon_color=C41E3A&border_color=2D9596&bg_color=0D1117)](https://github.com/Angry-Pomeranian/Security-Governance-Operations-Documentation-Portfolio)
+[![Security Portfolio](https://github-readme-stats-j51yce1ea-angry-pomeranians-projects.vercel.app/api/pin/?username=Angry-Pomeranian&repo=Security-Governance-Operations-Documentation-Portfolio&theme=github_dark&title_color=D4AF37&icon_color=C41E3A&border_color=2D9596&bg_color=0D1117)](https://github.com/Angry-Pomeranian/Security-Governance-Operations-Documentation-Portfolio)
+
 
 </div>
 
