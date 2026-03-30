@@ -84,8 +84,8 @@ Focus areas:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Angry-Pomeranian&show_icons=true&theme=github_dark&title_color=D4AF37&icon_color=C41E3A&text_color=8B9DA8&border_color=2D9596&bg_color=0D1117&hide_border=false&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angry-Pomeranian&layout=compact&theme=github_dark&title_color=D4AF37&text_color=8B9DA8&border_color=2D9596&bg_color=0D1117&hide_border=false&langs_count=6" />
+<img height="160" src="https://github-readme-stats-j51yce1ea-angry-pomeranians-projects.vercel.app/api?username=Angry-Pomeranian&show_icons=true&theme=github_dark&title_color=D4AF37&icon_color=C41E3A&text_color=8B9DA8&border_color=2D9596&bg_color=0D1117&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats-j51yce1ea-angry-pomeranians-projects.vercel.app/api/top-langs/?username=Angry-Pomeranian&layout=compact&theme=github_dark&title_color=D4AF37&text_color=8B9DA8&border_color=2D9596&bg_color=0D1117&hide_border=false&langs_count=6" />
 
 </div>
 
