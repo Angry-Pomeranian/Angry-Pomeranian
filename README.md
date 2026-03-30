@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Nicole%20K.&fontSize=72&fontColor=D4AF37&animation=fadeIn&fontAlignY=40&desc=Security%20Engineer%20%E2%80%A2%20Detection%20%26%20Response%20%E2%80%A2%20Security%20Governance&descAlignY=62&descColor=8B9DA8&descSize=16" />
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=ISO+27001%3A2022+%7C+ISO+42001%3A2023+%7C+CIS+Benchmarks;Detection+Engineering+%7C+Cloud+Security+%7C+IAM;Vulnerability+Management+%7C+Privileged+Access;Turning+frameworks+into+working+controls.)](https://git.io/typing-svg)
