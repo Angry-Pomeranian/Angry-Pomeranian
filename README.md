@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=58&pause=9999&color=C8A882&center=true&vCenter=true&width=700&height=90&lines=Nicole+Kemp"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=58&pause=9999&color=C8A882&center=true&vCenter=true&width=700&height=90&lines=Nicole"/>
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=22&pause=9999&color=7D2020&center=true&vCenter=true&width=700&height=50&lines=Security+Engineer+%26+ISO"/>
 
 <br/>
