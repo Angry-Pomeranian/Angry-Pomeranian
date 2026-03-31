@@ -12,7 +12,6 @@
 
 </div>
 
----
 
 ## `$ whoami`
 
@@ -30,8 +29,6 @@ Focus areas:
   └── AI GRC & Responsible AI Frameworks
 ```
 
----
-
 ## `$ skills --list`
 
 ### Security Domains
@@ -46,7 +43,6 @@ Focus areas:
 
 ### Platforms & Tooling
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0D1117?style=flat-square&logo=microsoftazure&logoColor=D4AF37)
-![Splunk](https://img.shields.io/badge/Splunk-0D1117?style=flat-square&logo=splunk&logoColor=D4AF37)
 ![Azure](https://img.shields.io/badge/Azure-0D1117?style=flat-square&logo=microsoftazure&logoColor=2D9596)
 ![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=2D9596)
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-0D1117?style=flat-square&logo=crowdstrike&logoColor=C41E3A)
@@ -68,7 +64,6 @@ Focus areas:
 ![Essential Eight](https://img.shields.io/badge/Essential%20Eight-0D1117?style=flat-square&logo=australia&logoColor=C41E3A)
 ![AI6 Framework](https://img.shields.io/badge/AU%20AI6%20Framework-0D1117?style=flat-square&logo=openai&logoColor=2D9596)
 
----
 
 ## `$ ls ./certifications`
 
@@ -80,7 +75,6 @@ Focus areas:
 
 </div>
 
----
 
 ## `$ git log --portfolio`
 
@@ -90,8 +84,6 @@ Focus areas:
 
 </div>
 
----
-
 ## `$ gh stats`
 
 <div align="center">
@@ -99,15 +91,12 @@ Focus areas:
 <img height="160" src="https://github-readme-stats-chi-ashy-55.vercel.app/api?username=Angry-Pomeranian&show_icons=true&theme=github_dark&title_color=D4AF37&icon_color=C41E3A&text_color=8B9DA8&border_color=2D9596&bg_color=0D1117&hide_border=false&include_all_commits=true&count_private=true" />
 <img height="160" src="https://github-readme-stats-chi-ashy-55.vercel.app/api/top-langs/?username=Angry-Pomeranian&layout=compact&theme=github_dark&title_color=D4AF37&text_color=8B9DA8&border_color=2D9596&bg_color=0D1117&hide_border=false&langs_count=6" />
 
-</div>
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Angry-Pomeranian&theme=github-dark-blue&background=0D1117&border=2D9596&ring=D4AF37&fire=C41E3A&currStreakLabel=D4AF37&sideLabels=8B9DA8&dates=8B9DA8)](https://git.io/streak-stats)
 
 </div>
 
----
 
 ## `$ tail -f /var/log/activity`
 
@@ -117,8 +106,6 @@ Focus areas:
 
 </div>
 
----
-
 ## `$ watch contribution-snake`
 
 <div align="center">
@@ -126,8 +113,6 @@ Focus areas:
 ![Snake animation](https://raw.githubusercontent.com/Angry-Pomeranian/Security-Governance-Operations-Documentation-Portfolio/output/github-snake-dark.svg)
 
 </div>
-
----
 
 <div align="center">
 
