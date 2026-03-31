@@ -70,6 +70,22 @@ Focus areas:
 
 ---
 
+## `$ ls ./certifications`
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/7bff636e-03cb-4933-9e7f-0c87bfe02445" target="_blank">
+  <img src="https://images.credly.com/badges/7bff636e-03cb-4933-9e7f-0c87bfe02445/image.png" alt="CompTIA Security+" width="120" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://app.kajabi.com/certificates/5e8b283e" target="_blank">
+  <img src="https://img.shields.io/badge/ISO%2027001%3A2022-Certified-D4AF37?style=for-the-badge&logo=iso&logoColor=0D1117&labelColor=0D1117" alt="ISO 27001:2022 Certified" />
+</a>
+
+</div>
+
+---
+
 ## `$ git log --portfolio`
 
 <div align="center">
@@ -97,11 +113,31 @@ Focus areas:
 
 ---
 
+## `$ cat ./trophies`
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Angry-Pomeranian&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/Angry-Pomeranian)
+
+</div>
+
+---
+
 ## `$ tail -f /var/log/activity`
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angry-Pomeranian&bg_color=0D1117&color=D4AF37&line=2D9596&point=C41E3A&area=true&area_color=2D9596&hide_border=false&border_color=2D9596" width="100%"/>
+
+</div>
+
+---
+
+## `$ watch contribution-snake`
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Angry-Pomeranian/Security-Governance-Operations-Documentation-Portfolio/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
