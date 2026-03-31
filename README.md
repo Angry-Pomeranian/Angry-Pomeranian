@@ -74,13 +74,9 @@ Focus areas:
 
 <div align="center">
 
-<a href="https://www.credly.com/badges/7bff636e-03cb-4933-9e7f-0c87bfe02445" target="_blank">
-  <img src="https://images.credly.com/badges/7bff636e-03cb-4933-9e7f-0c87bfe02445/image.png" alt="CompTIA Security+" width="120" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://app.kajabi.com/certificates/5e8b283e" target="_blank">
-  <img src="https://img.shields.io/badge/ISO%2027001%3A2022-Certified-D4AF37?style=for-the-badge&logo=iso&logoColor=0D1117&labelColor=0D1117" alt="ISO 27001:2022 Certified" />
-</a>
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-C41E3A?style=for-the-badge&logo=comptia&logoColor=white&labelColor=0D1117)](https://www.credly.com/badges/7bff636e-03cb-4933-9e7f-0c87bfe02445)
+&nbsp;
+[![ISO 27001:2022](https://img.shields.io/badge/ISO%2027001%3A2022-Certified-D4AF37?style=for-the-badge&logo=iso&logoColor=0D1117&labelColor=0D1117)](https://app.kajabi.com/certificates/5e8b283e)
 
 </div>
 
@@ -113,16 +109,6 @@ Focus areas:
 
 ---
 
-## `$ cat ./trophies`
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Angry-Pomeranian&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/Angry-Pomeranian)
-
-</div>
-
----
-
 ## `$ tail -f /var/log/activity`
 
 <div align="center">
@@ -137,7 +123,7 @@ Focus areas:
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Angry-Pomeranian/Security-Governance-Operations-Documentation-Portfolio/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Angry-Pomeranian/Security-Governance-Operations-Documentation-Portfolio/output/github-snake-dark.svg)
 
 </div>
 
