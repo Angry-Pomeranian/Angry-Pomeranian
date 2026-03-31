@@ -1,121 +1,161 @@
 <div align="center">
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=ISO+27001%3A2022+%7C+ISO+42001%3A2023+%7C+CIS+Benchmarks;Detection+Engineering+%7C+Cloud+Security+%7C+IAM;Vulnerability+Management+%7C+Privileged+Access;Turning+frameworks+into+working+controls.)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/Angry-Pomeranian/Angry-Pomeranian/main/assets/pixel-bg.gif" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicole%20K.-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://www.linkedin.com/in/nicole-k-1842a4221/)
-[![Portfolio](https://img.shields.io/badge/Security%20Portfolio-View%20Repo-C41E3A?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0D1117)](https://github.com/Angry-Pomeranian/Security-Governance-Operations-Documentation-Portfolio)
-[![Profile Views](https://komarev.com/ghpvc/?username=Angry-Pomeranian&style=for-the-badge&color=2D9596&labelColor=0D1117&label=PROFILE+VIEWS)](https://github.com/Angry-Pomeranian)
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=58&pause=9999&color=C8A882&center=true&vCenter=true&width=700&height=90&lines=Nicole+Kemp" alt="Nicole Kemp"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=22&pause=9999&color=7D2020&center=true&vCenter=true&width=700&height=50&lines=Security+Engineer+%26+ISO+%7C+Australian+MSP" alt="Security Engineer & ISO | Australian MSP"/>
 
+<br/>
 
-## `$ whoami`
+<p>❧ ───────────────── ✦ ───────────────── ❧</p>
 
-```
-Security Engineer & ISO at an Australian MSP (ISO 27001:2022 certified).
-I build controls, not just policies.
+<br/>
 
-Focus areas:
-  ├── Detection Engineering & SIEM (Microsoft Sentinel, Splunk)
-  ├── Cloud Security (Azure, AWS)
-  ├── Identity & Privileged Access Management
-  ├── Vulnerability & Patch Management
-  ├── Infrastructure Hardening (CIS Benchmarks)
-  ├── Security Governance (ISO 27001, ISO 42001, AI6)
-  └── AI GRC & Responsible AI Frameworks
-```
+<p><em>I'm Nicole, a security engineer and ISO at an ISO 27001:2022 certified Australian MSP. My path here was a proper career pivot, bartending to cybersecurity, which sounds hectic but honestly both jobs are just figuring out what's actually going on and keeping things from going sideways.</em></p>
 
-## `$ skills --list`
+<p><em>Fell into this industry and just kept going deeper. Somewhere along the way compliance went from something I just put up with to something I'm actually pretty stoked about, which I reckon is not the most common trajectory.</em></p>
 
-### Security Domains
-![Detection Engineering](https://img.shields.io/badge/Detection%20Engineering-0D1117?style=flat-square&logo=statuspage&logoColor=D4AF37)
-![IAM](https://img.shields.io/badge/Identity%20%26%20Access%20Management-0D1117?style=flat-square&logo=authelia&logoColor=D4AF37)
-![Cloud Security](https://img.shields.io/badge/Cloud%20Security-0D1117?style=flat-square&logo=icloud&logoColor=D4AF37)
-![Vulnerability Management](https://img.shields.io/badge/Vulnerability%20Management-0D1117?style=flat-square&logo=dependabot&logoColor=D4AF37)
-![Privileged Access](https://img.shields.io/badge/Privileged%20Access-0D1117?style=flat-square&logo=keepassxc&logoColor=D4AF37)
-![Network Security](https://img.shields.io/badge/Network%20Security-0D1117?style=flat-square&logo=wireguard&logoColor=D4AF37)
-![Incident Response](https://img.shields.io/badge/Incident%20Response-0D1117?style=flat-square&logo=firefoxbrowser&logoColor=C41E3A)
-![AI Governance](https://img.shields.io/badge/AI%20Governance-0D1117?style=flat-square&logo=openai&logoColor=2D9596)
+<p><em>My work is mostly in detection engineering, identity architecture, cloud security, and AI governance. Been drifting into General SecOps and DevOps territory lately but security is home base.</em></p>
 
-### Platforms & Tooling
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0D1117?style=flat-square&logo=microsoftazure&logoColor=D4AF37)
-![Azure](https://img.shields.io/badge/Azure-0D1117?style=flat-square&logo=microsoftazure&logoColor=2D9596)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=2D9596)
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-0D1117?style=flat-square&logo=crowdstrike&logoColor=C41E3A)
-![Defender](https://img.shields.io/badge/Microsoft%20Defender-0D1117?style=flat-square&logo=windows&logoColor=D4AF37)
-![Entra ID](https://img.shields.io/badge/Entra%20ID-0D1117?style=flat-square&logo=microsoftazure&logoColor=D4AF37)
+<p><em>Outside of work I'm reading, writing, or absolutely cooked on video games.</em></p>
 
-### Languages & Scripting
-![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=flat-square&logo=powershell&logoColor=2D9596)
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=D4AF37)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=D4AF37)
-![KQL](https://img.shields.io/badge/KQL-0D1117?style=flat-square&logo=microsoftazure&logoColor=C41E3A)
-![YAML](https://img.shields.io/badge/YAML-0D1117?style=flat-square&logo=yaml&logoColor=8B9DA8)
+<p><em>The portfolio is where the actual work lives, go have a dig around.</em></p>
 
-### Frameworks & Standards
-![ISO 27001](https://img.shields.io/badge/ISO%2027001%3A2022-0D1117?style=flat-square&logo=iso&logoColor=D4AF37)
-![ISO 42001](https://img.shields.io/badge/ISO%2042001%3A2023-0D1117?style=flat-square&logo=iso&logoColor=2D9596)
-![CIS Benchmarks](https://img.shields.io/badge/CIS%20Benchmarks-0D1117?style=flat-square&logo=ciscowebex&logoColor=D4AF37)
-![NIST](https://img.shields.io/badge/NIST%20CSF-0D1117?style=flat-square&logo=nist&logoColor=8B9DA8)
-![Essential Eight](https://img.shields.io/badge/Essential%20Eight-0D1117?style=flat-square&logo=australia&logoColor=C41E3A)
-![AI6 Framework](https://img.shields.io/badge/AU%20AI6%20Framework-0D1117?style=flat-square&logo=openai&logoColor=2D9596)
+<br/>
 
+<p>❧ ───────────────── ✦ ───────────────── ❧</p>
 
-## `$ ls ./certifications`
+<br/>
 
-<div align="center">
-
-[![Monash](https://img.shields.io/badge/Monash-Cybersecurity%2B-C41E3A?style=for-the-badge&logo=comptia&logoColor=white&labelColor=0D1117)](https://www.credly.com/badges/7bff636e-03cb-4933-9e7f-0c87bfe02445)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicole%20K.-7D2020?style=for-the-badge&logo=linkedin&logoColor=C8A882&labelColor=000000)](https://www.linkedin.com/in/nicole-k-1842a4221/)
 &nbsp;
-[![ISO 27001:2022](https://img.shields.io/badge/ISO%2027001%3A2022-Certified-D4AF37?style=for-the-badge&logo=iso&logoColor=0D1117&labelColor=0D1117)](https://app.kajabi.com/certificates/5e8b283e)
+[![Portfolio](https://img.shields.io/badge/Security%20Portfolio-View%20Repo-621515?style=for-the-badge&logo=github&logoColor=C8A882&labelColor=000000)](https://github.com/Angry-Pomeranian/Security-Governance-Operations-Documentation-Portfolio)
+&nbsp;
+[![Website](https://img.shields.io/badge/Website-angry--pomeranian.netlify.app-400D0D?style=for-the-badge&logo=netlify&logoColor=C8A882&labelColor=000000)](https://angry-pomeranian.netlify.app/)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=Angry-Pomeranian&style=for-the-badge&color=621515&labelColor=000000&label=PROFILE+VIEWS)](https://github.com/Angry-Pomeranian)
 
-</div>
+<br/>
 
+<p>❧ ───────────────── ✦ ───────────────── ❧</p>
 
-## `$ git log --portfolio`
+<br/>
 
-<div align="center">
+[![Monash Cybersecurity](https://img.shields.io/badge/Monash-Cybersecurity%20Boot%20Camp-7D2020?style=for-the-badge&logoColor=C8A882&labelColor=000000)](https://www.credly.com/badges/7bff636e-03cb-4933-9e7f-0c87bfe02445)
+&nbsp;
+[![ISO 27001:2022](https://img.shields.io/badge/ISO%2027001%3A2022-Certified-621515?style=for-the-badge&logoColor=C8A882&labelColor=000000)](https://app.kajabi.com/certificates/5e8b283e)
 
-[![Security Portfolio](https://github-readme-stats-chi-ashy-55.vercel.app/api/pin/?username=Angry-Pomeranian&repo=Security-Governance-Operations-Documentation-Portfolio&theme=github_dark&title_color=D4AF37&icon_color=C41E3A&border_color=2D9596&bg_color=0D1117)](https://github.com/Angry-Pomeranian/Security-Governance-Operations-Documentation-Portfolio)
+<br/>
 
-</div>
+<p>❧ ───────────────── ✦ ───────────────── ❧</p>
 
-## `$ gh stats`
+<br/>
 
-<div align="center">
+<sub>yes that is me at the keyboard</sub>
 
-<img height="160" src="https://github-readme-stats-chi-ashy-55.vercel.app/api?username=Angry-Pomeranian&show_icons=true&theme=github_dark&title_color=D4AF37&icon_color=C41E3A&text_color=8B9DA8&border_color=2D9596&bg_color=0D1117&hide_border=false&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats-chi-ashy-55.vercel.app/api/top-langs/?username=Angry-Pomeranian&layout=compact&theme=github_dark&title_color=D4AF37&text_color=8B9DA8&border_color=2D9596&bg_color=0D1117&hide_border=false&langs_count=6" />
+<img src="https://raw.githubusercontent.com/Angry-Pomeranian/Angry-Pomeranian/main/assets/cat-typing.gif" width="280px"/>
 
-<div align="center">
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Angry-Pomeranian&theme=github-dark-blue&background=0D1117&border=2D9596&ring=D4AF37&fire=C41E3A&currStreakLabel=D4AF37&sideLabels=8B9DA8&dates=8B9DA8)](https://git.io/streak-stats)
+<p>❧ ───────────────── ✦ ───────────────── ❧</p>
 
-</div>
+<br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=32&pause=9999&color=C8A882&center=true&vCenter=true&width=700&height=60&lines=Craft+%26+Tooling" alt="Craft & Tooling"/>
 
-## `$ tail -f /var/log/activity`
+<br/>
 
-<div align="center">
+**Security Domains**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Angry-Pomeranian&bg_color=0D1117&color=D4AF37&line=2D9596&point=C41E3A&area=true&area_color=2D9596&hide_border=false&border_color=2D9596" width="100%"/>
+![Detection Engineering](https://img.shields.io/badge/Detection%20Engineering-000000?style=flat-square&logo=statuspage&logoColor=C8A882)
+![IAM](https://img.shields.io/badge/Identity%20%26%20Access%20Management-000000?style=flat-square&logo=authelia&logoColor=C8A882)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-000000?style=flat-square&logo=icloud&logoColor=C8A882)
+![Vulnerability Management](https://img.shields.io/badge/Vulnerability%20Management-000000?style=flat-square&logo=dependabot&logoColor=C8A882)
+![Privileged Access](https://img.shields.io/badge/Privileged%20Access-000000?style=flat-square&logo=keepassxc&logoColor=C8A882)
+![Network Security](https://img.shields.io/badge/Network%20Security-000000?style=flat-square&logo=wireguard&logoColor=C8A882)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-000000?style=flat-square&logo=firefoxbrowser&logoColor=7D2020)
+![AI Governance](https://img.shields.io/badge/AI%20Governance-000000?style=flat-square&logo=openai&logoColor=7D2020)
 
-</div>
+<br/>
 
-## `$ watch contribution-snake`
+**Platforms & Tooling**
 
-<div align="center">
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-000000?style=flat-square&logo=microsoftazure&logoColor=C8A882)
+![Azure](https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoftazure&logoColor=C8A882)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=C8A882)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-000000?style=flat-square&logo=crowdstrike&logoColor=7D2020)
+![Defender](https://img.shields.io/badge/Microsoft%20Defender-000000?style=flat-square&logo=windows&logoColor=C8A882)
+![Entra ID](https://img.shields.io/badge/Entra%20ID-000000?style=flat-square&logo=microsoftazure&logoColor=C8A882)
+
+<br/>
+
+**Languages & Scripting**
+
+![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=flat-square&logo=powershell&logoColor=C8A882)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=C8A882)
+![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=C8A882)
+![KQL](https://img.shields.io/badge/KQL-000000?style=flat-square&logo=microsoftazure&logoColor=7D2020)
+![YAML](https://img.shields.io/badge/YAML-000000?style=flat-square&logo=yaml&logoColor=621515)
+
+<br/>
+
+**Frameworks & Standards**
+
+![ISO 27001](https://img.shields.io/badge/ISO%2027001%3A2022-000000?style=flat-square&logoColor=C8A882)
+![ISO 42001](https://img.shields.io/badge/ISO%2042001%3A2023-000000?style=flat-square&logoColor=621515)
+![CIS Benchmarks](https://img.shields.io/badge/CIS%20Benchmarks-000000?style=flat-square&logoColor=C8A882)
+![NIST](https://img.shields.io/badge/NIST%20CSF-000000?style=flat-square&logoColor=621515)
+![Essential Eight](https://img.shields.io/badge/Essential%20Eight-000000?style=flat-square&logoColor=7D2020)
+![AI6 Framework](https://img.shields.io/badge/AU%20AI6%20Framework-000000?style=flat-square&logo=openai&logoColor=621515)
+
+<br/>
+
+<p>❧ ───────────────── ✦ ───────────────── ❧</p>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=32&pause=9999&color=C8A882&center=true&vCenter=true&width=700&height=60&lines=Portfolio" alt="Portfolio"/>
+
+<br/>
+
+[![Security Portfolio](https://github-readme-stats-chi-ashy-55.vercel.app/api/pin/?username=Angry-Pomeranian&repo=Security-Governance-Operations-Documentation-Portfolio&theme=github_dark&title_color=C8A882&icon_color=7D2020&border_color=621515&bg_color=000000)](https://github.com/Angry-Pomeranian/Security-Governance-Operations-Documentation-Portfolio)
+
+<br/>
+
+<p>❧ ───────────────── ✦ ───────────────── ❧</p>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=32&pause=9999&color=C8A882&center=true&vCenter=true&width=700&height=60&lines=Contributions" alt="Contributions"/>
+
+<br/>
+
+<img height="160" src="https://github-readme-stats-chi-ashy-55.vercel.app/api?username=Angry-Pomeranian&show_icons=true&theme=github_dark&title_color=C8A882&icon_color=7D2020&text_color=A08070&border_color=621515&bg_color=000000&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats-chi-ashy-55.vercel.app/api/top-langs/?username=Angry-Pomeranian&layout=compact&theme=github_dark&title_color=C8A882&text_color=A08070&border_color=621515&bg_color=000000&hide_border=false&langs_count=6" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Angry-Pomeranian&theme=github-dark-blue&background=000000&border=621515&ring=C8A882&fire=7D2020&currStreakLabel=C8A882&sideLabels=A08070&dates=A08070)](https://git.io/streak-stats)
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Angry-Pomeranian&bg_color=000000&color=C8A882&line=621515&point=7D2020&area=true&area_color=400D0D&hide_border=false&border_color=621515" width="100%"/>
+
+<br/>
+
+<p>❧ ───────────────── ✦ ───────────────── ❧</p>
+
+<br/>
+
+<sub>commit activity</sub>
 
 ![Snake animation](https://raw.githubusercontent.com/Angry-Pomeranian/Security-Governance-Operations-Documentation-Portfolio/output/github-snake-dark.svg)
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:180808,100:621515&height=100&section=footer"/>
 
 </div>
