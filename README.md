@@ -74,7 +74,7 @@ Focus areas:
 
 <div align="center">
 
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-C41E3A?style=for-the-badge&logo=comptia&logoColor=white&labelColor=0D1117)](https://www.credly.com/badges/7bff636e-03cb-4933-9e7f-0c87bfe02445)
+[![Monash-Cybersecurity](https://img.shields.io/badge/Monash-Cert%2B-C41E3A?style=for-the-badge&logo=comptia&logoColor=white&labelColor=0D1117)](https://www.credly.com/badges/7bff636e-03cb-4933-9e7f-0c87bfe02445)
 &nbsp;
 [![ISO 27001:2022](https://img.shields.io/badge/ISO%2027001%3A2022-Certified-D4AF37?style=for-the-badge&logo=iso&logoColor=0D1117&labelColor=0D1117)](https://app.kajabi.com/certificates/5e8b283e)
 
