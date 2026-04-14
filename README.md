@@ -34,8 +34,8 @@
 <br/>
 
 <p align="center">
-  
-<img width="450" height="320" alt="image" src="https://github.com/user-attachments/assets/d552b78a-03c5-4bd7-8399-d399ed75be58"/>
+
+![GIF](png/tumblr_55119009ccce4d0218757ae2e61776d9_9fbf640e_500.gif)
 
 <br/>
 
