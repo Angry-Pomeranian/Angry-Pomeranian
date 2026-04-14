@@ -15,7 +15,7 @@
 
 <br/>
 
-*Hi! I'm Nicole, a security engineer and ISO at an ISO 27001:2022 certified Australian MSP. My path here was a proper career pivot, bartending to cybersecurity, which sounds hectic but honestly both jobs are just figuring out what's actually going on and keeping things from going sideways.*
+*Hi! I'm Nicole, a Informational Security Officer at an ISO 27001:2022 certified Australian MSP. My path here was a proper career pivot, bartending to cybersecurity, which sounds hectic but honestly both jobs are just figuring out what's actually going on and keeping things from going sideways.*
 
 *Fell into this industry and just kept going deeper. Somewhere along the way compliance went from something I just put up with to something I'm actually pretty stoked about, which I reckon is not the most common trajectory.* *My work is mostly in detection engineering, identity architecture, cloud security, and AI governance. Been drifting into General SecOps and DevOps territory lately but security is home base.*
 
