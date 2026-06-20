@@ -29,6 +29,7 @@
 </td>
 <td width="450">
 <img src="https://github.com/user-attachments/assets/02d4fa7b-3c3e-44f8-9cc9-c1a2571437e3" width="100%"/>
+<img width="1448" height="1086" alt="mockup" src="https://github.com/user-attachments/assets/658c5ee6-1839-4206-a4cb-ba3d147c5c3b" />
 </td>
 </tr>
 </table>
